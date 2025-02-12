@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "enter",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"DoS.sol": "DoS"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"DoS.sol": {
+			"keccak256": "0x7a641df89c1ef8022ecb87b1a8ffa8e6478d70b98e29a48b45e896be515b0ee8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f632a5807e45326d1da583f96dc65fffdb891da894751bb1f97e725b2cae6ab4",
+				"dweb:/ipfs/QmfN1DMAH4tthJig9Ftbad2geBW3CoiuXVrMms8F6T75Bw"
+			]
+		}
+	},
+	"version": 1
+}
